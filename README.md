@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+if you get the below error when running the project run npm install to get the dev kit 
+![image](https://user-images.githubusercontent.com/31209722/176717399-d21c5b48-0e2d-4ded-8f0f-b3629d286615.png)
